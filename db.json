@@ -1,0 +1,22 @@
+{
+  Retreats : [
+    {
+      "title": "200 Hour Hatha Yoga Teacher Training in Rishikesh",
+      "link": "https://www.yogi360.com",
+      "summary":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+      "highlights": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+      "destination": "india",
+      "language": "English, Hindi",
+      "level": "Beginner, Intermidiate, Advance"
+    },
+    {
+      "title": "300 Hour Ashtanga Yoga Teacher Training in Pokhra",
+      "link": "https://www.yogi360.com",
+      "summary":  "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+      "highlights": "adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+      "destination": "Nepal",
+      "language": "English, Hindi",
+      "level": "Beginner, Intermidiate, Advance"
+    }
+  ]
+}
